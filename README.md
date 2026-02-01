@@ -79,3 +79,5 @@ Future Improvements
 * Improve UI with loaders and toast notifications
 * Add authentication for upload history
 * Deploy application online
+
+Currently, the application is designed to run locally with a React frontend and a Python backend.
