@@ -1,0 +1,6 @@
+equipment_name,type,flowrate,pressure,temperature
+Pump A,Pump,120,30,75
+Valve B,Valve,80,20,60
+Pump C,Pump,150,35,85
+Sensor D,Sensor,40,10,25
+Valve E,Valve,90,22,65
